@@ -27,6 +27,7 @@ namespace Esercizio2ThreadconAsyncAwait
 
             }
 
+
             Console.ReadLine();
 
         }
